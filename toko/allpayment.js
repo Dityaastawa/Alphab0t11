@@ -4,28 +4,28 @@ return `PAYMENT BY ZEEONE OFC
 *🏧 BANK*
 
 1. BRI 
-	ㅁ 8881 0887 4350 47326
+	ㅁ 085792429140
 2. BCA 
-	ㅁ 3901 0887 4350 47326
+	ㅁ 085792429140
 3. BNI 
-	ㅁ 881 0887 4350 47326
+	ㅁ 085792429140
 4. PERMATA
-	ㅁ 852 8887 4350 47326
+	ㅁ 085792429140
 	
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 085792429140
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ 085792429140
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 085792429140
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama DI****BOT
 
 *📲 PULSA*
 
-Tidak tersedia
+085792429140
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
