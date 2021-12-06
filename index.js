@@ -3268,7 +3268,7 @@ if (err) return reply('Error!')
 let hah = fs.readFileSync(ran)
 alpha.sendMessage(from, hah, audio, {mimetype: 'audio/mp4', ptt:true, quoted: mek})
 fs.unlinkSync(ran)
-})
+}
 break
 		    case 'reverse':
 		            if (!isQuotedVideo) return fakegroup('```Reply videonya!```')
@@ -3701,7 +3701,7 @@ break
 					fs.unlinkSync(mediaa)
 					if (err) return reply('Yah gagal, coba ulangi ^_^')
 					buffer = fs.readFileSync(ran)
-					fakethumb(buffer,'```Nih kak, jgn lupa Support YT : ZEEONE OFC```')
+					fakethumb(buffer,'```Nih kak```')
 					fs.unlinkSync(ran)
 					})
 					break
